@@ -1,4 +1,4 @@
-package io.javabrains.springboottarter;
+package io.javabrains.springbootstarter.topics;
 
 public class Topic {
 		private String id;

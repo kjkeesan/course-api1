@@ -1,4 +1,4 @@
-package io.javabrains.springboottarter;
+package io.javabrains.springbootstarter.topics;
 
 import java.util.Arrays;
 import java.util.List;

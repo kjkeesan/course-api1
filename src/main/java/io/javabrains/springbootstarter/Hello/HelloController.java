@@ -1,4 +1,4 @@
-package io.javabrains.springboottarter;
+package io.javabrains.springbootstarter.Hello;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
